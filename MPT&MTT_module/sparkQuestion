@@ -1,0 +1,19 @@
+
+Q1 In 1800.csv file all data is given with all temperature of all stationId, timestamp, temperature type, Value of temperature
+
+	You have to find the max temperature and min temperature of the station name present in column 1
+	-	Read the file present/given by faculty
+	-	Split the textfile according to commas in seprated fields or objects
+	-	Find station with temperature
+	-	Apply reduceByKey to the above result 
+
+Q2 In the second one the data is fakefriends.csv with fields (id, name, age, total friends).
+	Find the average of friends with the each age from the data.
+
+	-	Read the file provided to you
+	-	Get age and total number of friends
+	-	Generate key-values pair
+	-	Get total friends by total occurance
+	-	Get yours result using collect() functions.
+
+

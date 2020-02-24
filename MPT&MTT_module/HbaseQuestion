@@ -1,0 +1,15 @@
+
+Hbase Question
+
+- Create a table EmployeeDetails with column families Personal and payroll
+- Describe the table
+- Personal column family should contain Id, name, address, pincode
+- Payroll should contain salary, position
+- insert data from datafile.txt into table
+- Row key should be same as "id" in file 
+- show all data in table
+- get data for row whose emp_id is 2
+- alter the table and add new column family 'company'
+- alter table personal column family with version 3
+- show data starting with 3 row
+- drop the table

@@ -1,0 +1,24 @@
+
+1 Open the Talent open Studio.
+- Create a project call test
+- Use the delimitted file "expressions.csv", with the component 
+- Filter the column 
+	- CustomerId field as a ID
+	- Select FirstName & LastName field from file and map to Name column by mergin both file with a "space" with you
+	- Address1 & Address2 column into Address
+	- Country & Postcode Column as Address2 in tMap
+	- Telephone Column as Mobile
+
+2 Use component to save filter data into "Xml file" and mysql database at a same time into single job
+	- Data should be filter with Id greater than 2
+
+3 Verify the data with "TLog"
+
+4 Use database input as for lookup consisting of the same data as "expressions.csv"
+	- Join the lookup table and with the above tinputComponent
+	- Use the left outer join, to join the two table.
+	- See the output in tLog
+
+5 Save the data into a new Xml file of the joinned data name as "finalOutput.xml"
+
+6 Run the job with error code 0

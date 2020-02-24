@@ -1,0 +1,3 @@
+1,tushar,jaipur,20201,50000,Cto
+2,kalank,mumbai,98988,20000,hr
+3,malik,pune,11212,12000,marketing

@@ -1,0 +1,231 @@
+
+
+1. Which of the following in the design workspace indicates an error with a component in Talend
+
+A) A red ‘X’                                                                      B) A red exclamation point
+
+C)A green ‘ I’                                                                    D)A yellow  exclamation point
+
+ Option A
+
+2 Component used for lookup
+A)tJoin                                                                         B) tLookUp
+
+C)tMap                                                                        D)tUnite
+
+ Option C.
+
+3 tMap offers following join model in Talend tool
+
+A)Left Outer Join                                     B)Right Outer Join
+
+C)Inner Join                                                D)Full Outer Join	
+
+ Option A & C
+
+4 How to access parameters in the Global Map in Talend ETL tool
+
+A)globalMap.put(“Key”, Object)
+
+B)globalMap.get(“Key”, Object)
+
+C)globalMap.put(“key”)
+
+D)globalMap.get(“key”)
+
+
+  Option D
+
+5 How do you reference the value of Context Variable FileName in configuration while Talend programming
+A)Context.FileName                                B)context.FileName
+
+C)FileName.value                                     D)$context.FileName
+
+  OPtion A
+
+
+6 While installing talend paramter which is neccessary?
+
+A)JAVA_HOME                           B)TALEND_HOME
+
+C)TIS_HOME                                 D)JRE_HOME
+
+  Option A
+
+
+
+7 How to place your component in a job in Talend Studio?
+A) Click it on Edit Menu
+
+B) Click it in the Repository and then click in the design workspace
+
+C) Click it from Repository to the A)Bottom to Top
+
+B)Right to Left
+
+C)Top to Bottom
+
+D)Matching the flow of datadesign workspace
+
+D)Click it in the Palette and then click in the design workspace
+
+E) Type component name in workspace
+
+
+  Option D & E
+
+8  What is the best practice for arranging components on the design workspace in Talend studio?
+A)Bottom to Top
+
+B)Right to Left
+
+C)Top to Bottom
+
+D)Matching the flow of data
+
+	Option C and D
+
+
+9 Run a job in Talend?
+A)Click the Run button in the Run view
+
+B)Click the Run button in the Job view
+
+C)Click the Run button in the File Menu
+
+D) None of the above
+
+	OPtion A
+
+
+
+10 Through which component we can't load JSON to MYSQL database
+A)tMySQLInput
+
+B)tFileInputJSON
+
+C)tMySQLOutput
+
+D)tMap
+
+	option A
+
+
+11 How do you see the configuration of an error message for a component in Talend studio?
+A)Right-click the component and then click show problem
+
+B)From the errors view
+
+C)Place the mouse pointer over error symbol in the design workspace
+
+D)From the problems view
+
+	Option C & D
+
+
+12 Which type of join is available with Tjoin?
+A) First join
+B) Unique join 
+C) Left outer
+D) None
+
+	option B
+
+
+13  How do you ensure that a subjob completes before a second subjob runs in Talend?
+A)Using RunIf trigger
+
+B)Using the main connection
+
+C)Using onComponentOk or OnComponentError trigger
+
+D)Using onSubJobOk or onSubJobError trigger
+ 
+   Option D
+
+14 What do you mean by component?
+A) It's a functional piece which is used for a single operation
+B) Found in palette
+C) Run for a job
+D) None of the above
+
+  Option A, B
+
+
+15 What is Built-in metadata
+A) Built-in for the data which we use rarely 
+B) Built-in used for the data which we use repeatedly.
+C) All of the above
+D) None of the above
+
+	Option A
+
+
+16 What are configuration tabs?
+A) Situted on the bottom half of design workspace
+B) Show properties of Component
+C) Use to get and work, with different metadata, parameters.
+D) All of the above
+
+  Option D
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
